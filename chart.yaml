@@ -22,23 +22,50 @@ charter-independent-agencies:
     social:
 
 executive-branch:
-  - name: Executive Office of the Mayor
-    abbreviation: EOM
-    code: AA0
-    homepage: http://mayor.dc.gov/
+  - name: Child and Family Services Agency
+    abbreviation: CFSA
+    code: RL0
+    homepage: http://cfsa.dc.gov/
     branch: Executive
-    parent: None
+    parent: Office of the Deputy Mayor for Health and Human Services
     social:
       - type: twitter
-        url: https://twitter.com/TeamMuriel
+        url: https://twitter.com/DCCFSA
       - type: facebook
-        url: https://www.facebook.com/MayorMurielBowser
-  - name: Office of Budget and Finance
-    abbreviation: OBF
+        url: https://www.facebook.com/DC-Child-and-Family-Services-Agency-103697583054554/
+  - name: Clean City Office
+    abbreviation: 
+    code: 
+    homepage: http://occc.dc.gov/
+    branch: Executive
+    parent: Office of Community Affairs
+    social:
+      - type: twitter
+        url: https://twitter.com/DCCleanCity
+  - name: Commission on Fathers, Men, and Boys
+    abbreviation: CFMB
     code: 
     homepage: 
     branch: Executive
-    parent: Office of the City Administrator
+    parent: Office of the Deputy Mayor for Greater Economic Opportunity
+    social:
+  - name: Commission on the Arts and Humanities
+    abbreviation: DCCAH
+    code: BX0
+    homepage: http://dcarts.dc.gov/
+    branch: Executive
+    parent: Office of the Deputy Mayor for Planning and Economic Development
+    social:
+      - type: twitter
+        url: https://twitter.com/TheDCArts
+      - type: facebook
+        url: https://www.facebook.com/TheDCArts/
+  - name: DC National Guard
+    abbreviation: 
+    code: FK0
+    homepage: 
+    branch: Executive
+    parent: Office of the Deputy City Administrator
     social:
   - name: DC Public Schools
     abbreviation: DCPS
@@ -51,34 +78,41 @@ executive-branch:
         url: https://twitter.com/dcpublicschools
       - type: facebook
         url: https://www.facebook.com/dcpublicschools/
-  - name: Department of Parks and Recreation
-    abbreviation: DPR
-    code: HA0
-    homepage: http://dpr.dc.gov/
+  - name: Department of Behavioral Health
+    abbreviation: DBH
+    code: RM0
+    homepage: http://dbh.dc.gov/
     branch: Executive
-    parent: Office of the Deputy Mayor for Education
+    parent: Office of the Deputy Mayor for Health and Human Services
+    social:
+  - name: Department of Consumer and Regulatory Affairs
+    abbreviation: DCRA
+    code: CR0
+    homepage: http://dcra.dc.gov/
+    branch: Executive
+    parent: Office of the Deputy Mayor for Planning and Economic Development
     social:
       - type: twitter
-        url: https://twitter.com/DCDPR
+        url: https://twitter.com/dcra
       - type: facebook
-        url: https://www.facebook.com/dcdpr/
-  - name: Office of the State Superintendent of Education
-    abbreviation: OSSE
-    code: GD0
-    homepage: http://osse.dc.gov/
+        url: https://www.facebook.com/DCDCRA/
+  - name: Department of Corrections
+    abbreviation: DOC
+    code: FL0
+    homepage: http://doc.dc.gov/
     branch: Executive
-    parent: Office of the Deputy Mayor for Education
+    parent: Office of the Deputy City Administrator
     social:
       - type: twitter
-        url: https://twitter.com/OSSEDC
+        url: https://twitter.com/dccorrections
       - type: facebook
-        url: https://www.facebook.com/OSSEDC/
-  - name: Commission on Fathers, Men, and Boys
-    abbreviation: CFMB
-    code: 
-    homepage: 
+        url: https://www.facebook.com/dccorrections/
+  - name: Department of Disability Services
+    abbreviation: DDS
+    code: JM0
+    homepage: http://dds.dc.gov/
     branch: Executive
-    parent: Office of the Deputy Mayor for Greater Economic Opportunity
+    parent: Office of the Deputy Mayor for Health and Human Services
     social:
   - name: Department of Employment Services
     abbreviation: DOES
@@ -91,137 +125,6 @@ executive-branch:
         url: https://twitter.com/DOES_DC
       - type: facebook
         url: https://www.facebook.com/DCDeptofEmploymentServices/
-  - name: Department of Small and Local Business Development
-    abbreviation: DSLB
-    code: EN0
-    homepage: http://dslbd.dc.gov/
-    branch: Executive
-    parent: Office of the Deputy Mayor for Greater Economic Opportunity
-    social:
-      - type: twitter
-        url: https://twitter.com/SmallBizDC
-      - type: facebook
-        url: https://www.facebook.com/smallbizdc/
-  - name: Office on African-American Affairs
-    abbreviation: OAAA
-    code: 
-    homepage: 
-    branch: Executive
-    parent: Office of the Deputy Mayor for Greater Economic Opportunity
-    social:
-  - name: Child and Family Services Agency
-    abbreviation: CFSA
-    code: RL0
-    homepage: http://cfsa.dc.gov/
-    branch: Executive
-    parent: Office of the Deputy Mayor for Health and Human Services
-    social:
-      - type: twitter
-        url: https://twitter.com/DCCFSA
-      - type: facebook
-        url: https://www.facebook.com/DC-Child-and-Family-Services-Agency-103697583054554/
-  - name: Department of Behavioral Health
-    abbreviation: DBH
-    code: RM0
-    homepage: http://dbh.dc.gov/
-    branch: Executive
-    parent: Office of the Deputy Mayor for Health and Human Services
-    social:
-  - name: Department of Disability Services
-    abbreviation: DDS
-    code: JM0
-    homepage: http://dds.dc.gov/
-    branch: Executive
-    parent: Office of the Deputy Mayor for Health and Human Services
-    social:
-  - name: Department of Health
-    abbreviation: DOH
-    code: HC0
-    homepage: http://doh.dc.gov/
-    branch: Executive
-    parent: Office of the Deputy Mayor for Health and Human Services
-    social:
-      - type: twitter
-        url: https://twitter.com/DOHDC
-      - type: facebook
-        url: https://www.facebook.com/dchealthdept/
-  - name: Department of Health Care Finance
-    abbreviation: DHCF
-    code: HT0
-    homepage: http://dhcf.dc.gov/
-    branch: Executive
-    parent: Office of the Deputy Mayor for Health and Human Services
-    social:
-      - type: twitter
-        url: https://twitter.com/DCHealthCareFin
-      - type: facebook
-        url: https://www.facebook.com/DC-Department-of-Health-Care-Finance-DHCF-142415329158066/
-  - name: Department of Human Services
-    abbreviation: DHS
-    code: JA0
-    homepage: http://dhs.dc.gov/
-    branch: Executive
-    parent: Office of the Deputy Mayor for Health and Human Services
-    social:
-      - type: twitter
-        url: https://twitter.com/DCHumanServ
-      - type: facebook
-        url: https://www.facebook.com/DHSDC/
-  - name: Department of Youth Rehabilitation Services
-    abbreviation: DYRS
-    code: JZ0
-    homepage: http://dyrs.dc.gov/
-    branch: Executive
-    parent: Office of the Deputy Mayor for Health and Human Services
-    social:
-      - type: twitter
-        url: https://twitter.com/DYRSDC
-      - type: facebook
-        url: https://www.facebook.com/dyrsdc/
-  - name: Office of Disability Rights
-    abbreviation: ODR
-    code: JR0
-    homepage: http://odr.dc.gov/
-    branch: Executive
-    parent: Office of the Deputy Mayor for Health and Human Services
-    social:
-      - type: twitter
-        url: https://twitter.com/ODRDC
-      - type: facebook
-        url: https://www.facebook.com/disabilityrights/
-  - name: Office on Aging
-    abbreviation: DCOA
-    code: BY0
-    homepage: http://dcoa.dc.gov/
-    branch: Executive
-    parent: Office of the Deputy Mayor for Health and Human Services
-    social:
-      - type: twitter
-        url: https://twitter.com/DCAgingNews
-      - type: facebook
-        url: https://www.facebook.com/DCAgingNews/
-  - name: Commission on the Arts and Humanities
-    abbreviation: DCCAH
-    code: BX0
-    homepage: http://dcarts.dc.gov/
-    branch: Executive
-    parent: Office of the Deputy Mayor for Planning and Economic Development
-    social:
-      - type: twitter
-        url: https://twitter.com/TheDCArts
-      - type: facebook
-        url: https://www.facebook.com/TheDCArts/
-  - name: Department of Consumer and Regulatory Affairs
-    abbreviation: DCRA
-    code: CR0
-    homepage: http://dcra.dc.gov/
-    branch: Executive
-    parent: Office of the Deputy Mayor for Planning and Economic Development
-    social:
-      - type: twitter
-        url: https://twitter.com/dcra
-      - type: facebook
-        url: https://www.facebook.com/DCDCRA/
   - name: Department of Energy and Environment
     abbreviation: DOEE
     code: KG0
@@ -233,6 +136,59 @@ executive-branch:
         url: https://twitter.com/DOEE_DC
       - type: facebook
         url: https://www.facebook.com/DDOE.DC/
+  - name: Department of Forensic Sciences
+    abbreviation: DFS
+    code: FR0
+    homepage: http://dfs.dc.gov/
+    branch: Executive
+    parent: Office of the Deputy City Administrator
+    social:
+      - type: facebook
+        url: https://www.facebook.com/DCDepartmentofForensicSciences/
+  - name: Department of General Services
+    abbreviation: DGS
+    code: AM0
+    homepage: http://dgs.dc.gov/
+    branch: Executive
+    parent: Office of the Deputy City Administrator
+    social:
+      - type: twitter
+        url: https://twitter.com/DCDGS
+      - type: facebook
+        url: https://www.facebook.com/dcdgs/
+  - name: Department of Health Care Finance
+    abbreviation: DHCF
+    code: HT0
+    homepage: http://dhcf.dc.gov/
+    branch: Executive
+    parent: Office of the Deputy Mayor for Health and Human Services
+    social:
+      - type: twitter
+        url: https://twitter.com/DCHealthCareFin
+      - type: facebook
+        url: https://www.facebook.com/DC-Department-of-Health-Care-Finance-DHCF-142415329158066/
+  - name: Department of Health
+    abbreviation: DOH
+    code: HC0
+    homepage: http://doh.dc.gov/
+    branch: Executive
+    parent: Office of the Deputy Mayor for Health and Human Services
+    social:
+      - type: twitter
+        url: https://twitter.com/DOHDC
+      - type: facebook
+        url: https://www.facebook.com/dchealthdept/
+  - name: Department of Homeland Security and Emergency Management Agency
+    abbreviation: HSEMA
+    code: BN0
+    homepage: http://hsema.dc.gov/
+    branch: Executive
+    parent: Office of the Deputy City Administrator
+    social:
+      - type: twitter
+        url: https://twitter.com/dc_hsema
+      - type: facebook
+        url: https://www.facebook.com/HSEMADC/
   - name: Department of Housing and Community Development
     abbreviation: DHCD
     code: DB0
@@ -244,6 +200,28 @@ executive-branch:
         url: https://twitter.com/dcdhcd
       - type: facebook
         url: https://www.facebook.com/Dcdhcd/
+  - name: Department of Human Resources
+    abbreviation: DCHR
+    code: BE0
+    homepage: http://dchr.dc.gov/
+    branch: Executive
+    parent: Office of the Deputy City Administrator
+    social:
+      - type: twitter
+        url: https://twitter.com/DCgovDCHR
+      - type: facebook
+        url: https://www.facebook.com/DCHumanResources/
+  - name: Department of Human Services
+    abbreviation: DHS
+    code: JA0
+    homepage: http://dhs.dc.gov/
+    branch: Executive
+    parent: Office of the Deputy Mayor for Health and Human Services
+    social:
+      - type: twitter
+        url: https://twitter.com/DCHumanServ
+      - type: facebook
+        url: https://www.facebook.com/DHSDC/
   - name: Department of Insurance, Securities, and Banking
     abbreviation: DISB
     code: SR0
@@ -255,6 +233,50 @@ executive-branch:
         url: https://twitter.com/DCDISB
       - type: facebook
         url: https://www.facebook.com/DC-Department-of-Insurance-Securities-and-Banking-87054375003/
+  - name: Department of Motor Vehicles
+    abbreviation: DMV
+    code: KV0
+    homepage: http://dmv.dc.gov/
+    branch: Executive
+    parent: Office of the Deputy City Administrator
+    social:
+      - type: twitter
+        url: https://twitter.com/dcdmv
+      - type: facebook
+        url: https://www.facebook.com/DCDMV/
+  - name: Department of Parks and Recreation
+    abbreviation: DPR
+    code: HA0
+    homepage: http://dpr.dc.gov/
+    branch: Executive
+    parent: Office of the Deputy Mayor for Education
+    social:
+      - type: twitter
+        url: https://twitter.com/DCDPR
+      - type: facebook
+        url: https://www.facebook.com/dcdpr/
+  - name: Department of Public Works
+    abbreviation: DPW
+    code: KT0
+    homepage: http://dpw.dc.gov/
+    branch: Executive
+    parent: Office of the Deputy City Administrator
+    social:
+      - type: twitter
+        url: https://twitter.com/DCDPW
+      - type: facebook
+        url: https://www.facebook.com/dpwdc/
+  - name: Department of Small and Local Business Development
+    abbreviation: DSLB
+    code: EN0
+    homepage: http://dslbd.dc.gov/
+    branch: Executive
+    parent: Office of the Deputy Mayor for Greater Economic Opportunity
+    social:
+      - type: twitter
+        url: https://twitter.com/SmallBizDC
+      - type: facebook
+        url: https://www.facebook.com/smallbizdc/
   - name: Department of Transportation
     abbreviation: DDOT
     code: KA0
@@ -266,6 +288,92 @@ executive-branch:
         url: https://twitter.com/ddotdc
       - type: facebook
         url: https://www.facebook.com/DDOTDC/
+  - name: Department of Youth Rehabilitation Services
+    abbreviation: DYRS
+    code: JZ0
+    homepage: http://dyrs.dc.gov/
+    branch: Executive
+    parent: Office of the Deputy Mayor for Health and Human Services
+    social:
+      - type: twitter
+        url: https://twitter.com/DYRSDC
+      - type: facebook
+        url: https://www.facebook.com/dyrsdc/
+  - name: Executive Office of the Mayor
+    abbreviation: EOM
+    code: AA0
+    homepage: http://mayor.dc.gov/
+    branch: Executive
+    parent: None
+    social:
+      - type: twitter
+        url: https://twitter.com/TeamMuriel
+      - type: facebook
+        url: https://www.facebook.com/MayorMurielBowser
+  - name: Fire and Emergency Medical Services
+    abbreviation: FEMS
+    code: FB0
+    homepage: http://fems.dc.gov/
+    branch: Executive
+    parent: Office of the Deputy City Administrator
+    social:
+      - type: twitter
+        url: https://twitter.com/dcfireems
+      - type: facebook
+        url: https://www.facebook.com/DCFireAndEMS/
+  - name: Justice Grants Administration
+    abbreviation: JGA
+    code: 
+    homepage: http://jga.dc.gov/
+    branch: Executive
+    parent: Office of the Deputy City Administrator
+    social:
+  - name: Lottery and Charitable Games Control Board
+    abbreviation: DCLB
+    code: 
+    homepage: http://lottery.dc.gov/
+    branch: Executive
+    parent: Office of the Chief Financial Officer
+    social:
+  - name: Mayor's Correspondence Unit
+    abbreviation: MCU
+    code: 
+    homepage: 
+    branch: Executive
+    parent: Office of Communications
+    social:
+  - name: Mayor's Office of Legal Counsel
+    abbreviation: 
+    code: AH0
+    homepage: http://mayor.dc.gov/
+    branch: Executive
+    parent: Executive Office of the Mayor
+    social:
+  - name: Metropolitan Police Department
+    abbreviation: MPDC
+    code: FA0
+    homepage: http://mpdc.dc.gov/
+    branch: Executive
+    parent: Office of the Deputy City Administrator
+    social:
+      - type: twitter
+        url: https://twitter.com/DCPoliceDept
+      - type: facebook
+        url: https://www.facebook.com/DCPolice/
+  - name: Office of Budget and Finance
+    abbreviation: OBF
+    code: 
+    homepage: 
+    branch: Executive
+    parent: Office of the City Administrator
+    social:
+  - name: Office of Budget and Planning
+    abbreviation: OBP
+    code: 
+    homepage: 
+    branch: Executive
+    parent: Office of the Chief Financial Officer
+    social:
   - name: Office of Cable Television, Film, Music, and Entertainment
     abbreviation: OCTFME
     code: CI0
@@ -275,6 +383,105 @@ executive-branch:
     social:
       - type: twitter
         url: https://twitter.com/OCTDC
+  - name: Office of Communications
+    abbreviation: OC
+    code: 
+    homepage: 
+    branch: Executive
+    parent: Office of the Chief of Staff
+    social:
+  - name: Office of Community Affairs
+    abbreviation: MOCA
+    code: 
+    homepage: http://moca.dc.gov/
+    branch: Executive
+    parent: Office of the Chief of Staff
+    social:
+      - type: twitter
+        url: https://twitter.com/CommAffDC
+  - name: Office of Community Relations and Services
+    abbreviation: MOCRS
+    code: 
+    homepage: http://mocrs.dc.gov/
+    branch: Executive
+    parent: Office of Community Affairs
+    social:
+      - type: twitter
+        url: https://twitter.com/DCMOCRS
+  - name: Office of Contracting and Procurement
+    abbreviation: OCP
+    code: PO0
+    homepage: http://ocp.dc.gov/
+    branch: Executive
+    parent: Office of the Deputy City Administrator
+    social:
+      - type: twitter
+        url: https://twitter.com/DCGOV_OCP
+  - name: Office of Disability Rights
+    abbreviation: ODR
+    code: JR0
+    homepage: http://odr.dc.gov/
+    branch: Executive
+    parent: Office of the Deputy Mayor for Health and Human Services
+    social:
+      - type: twitter
+        url: https://twitter.com/ODRDC
+      - type: facebook
+        url: https://www.facebook.com/disabilityrights/
+  - name: Office of Federal and Regional Affairs
+    abbreviation: OFRA
+    code: 
+    homepage: 
+    branch: Executive
+    parent: Office of the Senior Advisor
+    social:
+  - name: Office of Finance and Treasury
+    abbreviation: OFT
+    code: 
+    homepage: http://cfo.dc.gov/page/office-finance-and-treasury
+    branch: Executive
+    parent: Office of the Chief Financial Officer
+    social:
+  - name: Office of Financial Operations and Systems
+    abbreviation: OFOS
+    code: 
+    homepage: http://cfo.dc.gov/page/office-financial-operations-and-systems
+    branch: Executive
+    parent: Office of the Chief Financial Officer
+    social:
+  - name: Office of Human Rights
+    abbreviation: OHR
+    code: HM0
+    homepage: http://ohr.dc.gov/
+    branch: Executive
+    parent: Office of the Deputy City Administrator
+    social:
+      - type: twitter
+        url: https://twitter.com/DCHumanRights
+      - type: facebook
+        url: https://www.facebook.com/DCOHR/
+  - name: Office of LGBTQ Affairs
+    abbreviation: LGBTQ
+    code: 
+    homepage: http://lgbtq.dc.gov/
+    branch: Executive
+    parent: Office of Community Affairs
+    social:
+      - type: twitter
+        url: https://twitter.com/DCLGBTQ
+      - type: facebook
+        url: https://www.facebook.com/GLBTAffairsDC/
+  - name: Office of Partnerships and Grants
+    abbreviation: OPGS
+    code: 
+    homepage: http://opgs.dc.gov/
+    branch: Executive
+    parent: Office of the General Counsel
+    social:
+      - type: twitter
+        url: https://twitter.com/opgsdc
+      - type: facebook
+        url: https://www.facebook.com/OPGSDC/
   - name: Office of Planning
     abbreviation: OP
     code: BD0
@@ -286,56 +493,61 @@ executive-branch:
         url: https://twitter.com/opindc
       - type: facebook
         url: https://www.facebook.com/DC-Office-of-Planning-227780340584144/
-  - name: Taxicab Commission
-    abbreviation: DCTAXI
-    code: TC0
-    homepage: http://dctaxi.dc.gov/
+  - name: Office of Policy and Legislative Affairs
+    abbreviation: OPLA
+    code: 
+    homepage: 
     branch: Executive
-    parent: Office of the Deputy Mayor for Planning and Economic Development
+    parent: Office of the Senior Advisor
     social:
-      - type: twitter
-        url: https://twitter.com/dctc3_dc
-  - name: Mayor's Office of Legal Counsel
-    abbreviation: 
-    code: AH0
-    homepage: http://mayor.dc.gov/
+  - name: Office of Religious Affairs
+    abbreviation: ORA
+    code: 
+    homepage: http://ora.dc.gov/
     branch: Executive
-    parent: Executive Office of the Mayor
+    parent: Office of Community Affairs
     social:
-  - name: Office of the Chief of Staff
+  - name: Office of Revenue Analysis
     abbreviation: 
     code: 
-    homepage: http://mayor.dc.gov/
+    homepage: http://cfo.dc.gov/page/office-revenue-analysis
     branch: Executive
-    parent: Executive Office of the Mayor
+    parent: Office of the Chief Financial Officer
     social:
-  - name: Office of the City Administrator
-    abbreviation: OCA
-    code: AE0
-    homepage: http://oca.dc.gov/
+  - name: Office of Risk Management
+    abbreviation: ORM
+    code: RK0
+    homepage: http://orm.dc.gov/
     branch: Executive
-    parent: Executive Office of the Mayor
+    parent: Office of the Deputy City Administrator
     social:
-      - type: twitter
-        url: https://twitter.com/Young_CityDC
-  - name: Office of the Senior Advisor
-    abbreviation: 
-    code: AI0
-    homepage: http://mayor.dc.gov/
-    branch: Executive
-    parent: Executive Office of the Mayor
-    social:
-  - name: Office of Victim Services
-    abbreviation: OVS
-    code: FO0
-    homepage: http://ovs.dc.gov/
-    branch: Executive
-    parent: Justice Grants Administration
-    social:
-      - type: twitter
-        url: https://twitter.com/OVS_DC
       - type: facebook
-        url: https://www.facebook.com/DC-Office-of-Victim-Services-216107598412662/
+        url: https://www.facebook.com/DC-Office-of-Risk-Management-284498761657948/
+  - name: Office of Scheduling and Advance
+    abbreviation: OSA
+    code: 
+    homepage: 
+    branch: Executive
+    parent: Office of the Chief of Staff
+    social:
+  - name: Office of Talent and Appointments
+    abbreviation: MOTA
+    code: 
+    homepage: http://mota.dc.gov/
+    branch: Executive
+    parent: Office of the Chief of Staff
+    social:
+      - type: twitter
+        url: https://twitter.com/mayorsota_dc
+  - name: Office of Tax and Revenue
+    abbreviation: OTR
+    code: 
+    homepage: http://otr.cfo.dc.gov/
+    branch: Executive
+    parent: Office of the Chief Financial Officer
+    social:
+      - type: twitter
+        url: https://twitter.com/DC_OTR
   - name: Office of the Attorney General
     abbreviation: OAG
     code: CB0
@@ -350,6 +562,90 @@ executive-branch:
     branch: Executive
     parent: None
     social:
+  - name: Office of the Chief Medical Examiner
+    abbreviation: OCME
+    code: FX0
+    homepage: http://ocme.dc.gov/
+    branch: Executive
+    parent: Office of the Deputy City Administrator
+    social:
+  - name: Office of the Chief of Staff
+    abbreviation: 
+    code: 
+    homepage: http://mayor.dc.gov/
+    branch: Executive
+    parent: Executive Office of the Mayor
+    social:
+  - name: Office of the Chief Technology Officer
+    abbreviation: OCTO
+    code: TO0
+    homepage: http://octo.dc.gov/
+    branch: Executive
+    parent: Office of the Deputy City Administrator
+    social:
+      - type: twitter
+        url: https://twitter.com/octodc
+      - type: facebook
+        url: https://www.facebook.com/octodc/
+  - name: Office of the City Administrator
+    abbreviation: OCA
+    code: AE0
+    homepage: http://oca.dc.gov/
+    branch: Executive
+    parent: Executive Office of the Mayor
+    social:
+      - type: twitter
+        url: https://twitter.com/Young_CityDC
+  - name: Office of the Deputy City Administrator
+    abbreviation: 
+    code: 
+    homepage: 
+    branch: Executive
+    parent: Office of the City Administrator
+    social:
+  - name: Office of the Deputy Mayor for Education
+    abbreviation: DME
+    code: GW0
+    homepage: http://dme.dc.gov/
+    branch: Executive
+    parent: Office of the City Administrator
+    social:
+      - type: twitter
+        url: https://twitter.com/DMEforDC
+  - name: Office of the Deputy Mayor for Greater Economic Opportunity
+    abbreviation: DMGEO
+    code: EM0
+    homepage: http://dmgeo.dc.gov/
+    branch: Executive
+    parent: Office of the City Administrator
+    social:
+      - type: twitter
+        url: https://twitter.com/DMGEOSnowden
+  - name: Office of the Deputy Mayor for Health and Human Services
+    abbreviation: DMHHS
+    code: HG0
+    homepage: http://dmhhs.dc.gov/
+    branch: Executive
+    parent: Office of the City Administrator
+    social:
+      - type: twitter
+        url: https://twitter.com/DMHHS_DC
+      - type: facebook
+        url: https://www.facebook.com/DMHHS
+  - name: Office of the Deputy Mayor for Planning and Economic Development
+    abbreviation: DMPED
+    code: EB0
+    homepage: http://dmped.dc.gov/
+    branch: Executive
+    parent: Office of the City Administrator
+    social:
+  - name: Office of the General Counsel
+    abbreviation: OGC
+    code: 
+    homepage: 
+    branch: Executive
+    parent: Office of the Chief of Staff
+    social:
   - name: Office of the Inspector General
     abbreviation: OIG
     code: AD0
@@ -357,49 +653,46 @@ executive-branch:
     branch: Executive
     parent: None
     social:
-  - name: Mayor's Correspondence Unit
-    abbreviation: MCU
-    code: 
-    homepage: 
+  - name: Office of the Secretary
+    abbreviation: OS
+    code: BA0
+    homepage: http://os.dc.gov/
     branch: Executive
-    parent: Office of Communications
-    social:
-  - name: Clean City Office
-    abbreviation: 
-    code: 
-    homepage: http://occc.dc.gov/
-    branch: Executive
-    parent: Office of Community Affairs
+    parent: Office of the Senior Advisor
     social:
       - type: twitter
-        url: https://twitter.com/DCCleanCity
-  - name: Office of Community Relations and Services
-    abbreviation: MOCRS
-    code: 
-    homepage: http://mocrs.dc.gov/
-    branch: Executive
-    parent: Office of Community Affairs
-    social:
-      - type: twitter
-        url: https://twitter.com/DCMOCRS
-  - name: Office of LGBTQ Affairs
-    abbreviation: LGBTQ
-    code: 
-    homepage: http://lgbtq.dc.gov/
-    branch: Executive
-    parent: Office of Community Affairs
-    social:
-      - type: twitter
-        url: https://twitter.com/DCLGBTQ
+        url: https://twitter.com/SecretaryofDC
       - type: facebook
-        url: https://www.facebook.com/GLBTAffairsDC/
-  - name: Office of Religious Affairs
-    abbreviation: ORA
-    code: 
-    homepage: http://ora.dc.gov/
+        url: https://www.facebook.com/Office-of-the-Secretary-of-the-District-of-Columbia-173113089429495/
+  - name: Office of the Senior Advisor
+    abbreviation: 
+    code: AI0
+    homepage: http://mayor.dc.gov/
     branch: Executive
-    parent: Office of Community Affairs
+    parent: Executive Office of the Mayor
     social:
+  - name: Office of the State Superintendent of Education
+    abbreviation: OSSE
+    code: GD0
+    homepage: http://osse.dc.gov/
+    branch: Executive
+    parent: Office of the Deputy Mayor for Education
+    social:
+      - type: twitter
+        url: https://twitter.com/OSSEDC
+      - type: facebook
+        url: https://www.facebook.com/OSSEDC/
+  - name: Office of Unified Communications
+    abbreviation: OUC
+    code: UC0
+    homepage: http://ouc.dc.gov/
+    branch: Executive
+    parent: Office of the Deputy City Administrator
+    social:
+      - type: twitter
+        url: https://twitter.com/311DCGov
+      - type: facebook
+        url: https://www.facebook.com/Office-of-Unified-Communications-127730233991812/
   - name: Office of Veteran Affairs
     abbreviation: OVA
     code: VA0
@@ -411,6 +704,17 @@ executive-branch:
         url: https://twitter.com/dc_ova
       - type: facebook
         url: https://www.facebook.com/Washington-DC-Mayors-Office-of-Veterans-Affairs-193189384026015/
+  - name: Office of Victim Services
+    abbreviation: OVS
+    code: FO0
+    homepage: http://ovs.dc.gov/
+    branch: Executive
+    parent: Justice Grants Administration
+    social:
+      - type: twitter
+        url: https://twitter.com/OVS_DC
+      - type: facebook
+        url: https://www.facebook.com/DC-Office-of-Victim-Services-216107598412662/
   - name: Office on African Affairs
     abbreviation: OAA
     code: 
@@ -422,6 +726,24 @@ executive-branch:
         url: https://twitter.com/DCMayorOAA
       - type: facebook
         url: https://www.facebook.com/DC-Mayors-Office-on-African-Affairs-176332395753662/
+  - name: Office on African-American Affairs
+    abbreviation: OAAA
+    code: 
+    homepage: 
+    branch: Executive
+    parent: Office of the Deputy Mayor for Greater Economic Opportunity
+    social:
+  - name: Office on Aging
+    abbreviation: DCOA
+    code: BY0
+    homepage: http://dcoa.dc.gov/
+    branch: Executive
+    parent: Office of the Deputy Mayor for Health and Human Services
+    social:
+      - type: twitter
+        url: https://twitter.com/DCAgingNews
+      - type: facebook
+        url: https://www.facebook.com/DCAgingNews/
   - name: Office on Asian and Pacific Islander Affairs
     abbreviation: APIA
     code: AP0
@@ -475,6 +797,15 @@ executive-branch:
         url: https://twitter.com/servedc
       - type: facebook
         url: https://www.facebook.com/IServeDC/
+  - name: Taxicab Commission
+    abbreviation: DCTAXI
+    code: TC0
+    homepage: http://dctaxi.dc.gov/
+    branch: Executive
+    parent: Office of the Deputy Mayor for Planning and Economic Development
+    social:
+      - type: twitter
+        url: https://twitter.com/dctc3_dc
   - name: Youth Advisory Council
     abbreviation: DCYAC
     code: 
@@ -486,338 +817,6 @@ executive-branch:
         url: https://twitter.com/wdcyac
       - type: facebook
         url: https://www.facebook.com/DC-Youth-Advisory-Council-83627444396/
-  - name: Lottery and Charitable Games Control Board
-    abbreviation: DCLB
-    code: 
-    homepage: http://lottery.dc.gov/
-    branch: Executive
-    parent: Office of the Chief Financial Officer
-    social:
-  - name: Office of Budget and Planning
-    abbreviation: OBP
-    code: 
-    homepage: 
-    branch: Executive
-    parent: Office of the Chief Financial Officer
-    social:
-  - name: Office of Finance and Treasury
-    abbreviation: OFT
-    code: 
-    homepage: http://cfo.dc.gov/page/office-finance-and-treasury
-    branch: Executive
-    parent: Office of the Chief Financial Officer
-    social:
-  - name: Office of Financial Operations and Systems
-    abbreviation: OFOS
-    code: 
-    homepage: http://cfo.dc.gov/page/office-financial-operations-and-systems
-    branch: Executive
-    parent: Office of the Chief Financial Officer
-    social:
-  - name: Office of Revenue Analysis
-    abbreviation: 
-    code: 
-    homepage: http://cfo.dc.gov/page/office-revenue-analysis
-    branch: Executive
-    parent: Office of the Chief Financial Officer
-    social:
-  - name: Office of Tax and Revenue
-    abbreviation: OTR
-    code: 
-    homepage: http://otr.cfo.dc.gov/
-    branch: Executive
-    parent: Office of the Chief Financial Officer
-    social:
-      - type: twitter
-        url: https://twitter.com/DC_OTR
-  - name: Office of Communications
-    abbreviation: OC
-    code: 
-    homepage: 
-    branch: Executive
-    parent: Office of the Chief of Staff
-    social:
-  - name: Office of Community Affairs
-    abbreviation: MOCA
-    code: 
-    homepage: http://moca.dc.gov/
-    branch: Executive
-    parent: Office of the Chief of Staff
-    social:
-      - type: twitter
-        url: https://twitter.com/CommAffDC
-  - name: Office of Scheduling and Advance
-    abbreviation: OSA
-    code: 
-    homepage: 
-    branch: Executive
-    parent: Office of the Chief of Staff
-    social:
-  - name: Office of Talent and Appointments
-    abbreviation: MOTA
-    code: 
-    homepage: http://mota.dc.gov/
-    branch: Executive
-    parent: Office of the Chief of Staff
-    social:
-      - type: twitter
-        url: https://twitter.com/mayorsota_dc
-  - name: Office of the General Counsel
-    abbreviation: OGC
-    code: 
-    homepage: 
-    branch: Executive
-    parent: Office of the Chief of Staff
-    social:
-  - name: Office of the Deputy City Administrator
-    abbreviation: 
-    code: 
-    homepage: 
-    branch: Executive
-    parent: Office of the City Administrator
-    social:
-  - name: Office of the Deputy Mayor for Education
-    abbreviation: DME
-    code: GW0
-    homepage: http://dme.dc.gov/
-    branch: Executive
-    parent: Office of the City Administrator
-    social:
-      - type: twitter
-        url: https://twitter.com/DMEforDC
-  - name: Office of the Deputy Mayor for Greater Economic Opportunity
-    abbreviation: DMGEO
-    code: EM0
-    homepage: http://dmgeo.dc.gov/
-    branch: Executive
-    parent: Office of the City Administrator
-    social:
-      - type: twitter
-        url: https://twitter.com/DMGEOSnowden
-  - name: Office of the Deputy Mayor for Health and Human Services
-    abbreviation: DMHHS
-    code: HG0
-    homepage: http://dmhhs.dc.gov/
-    branch: Executive
-    parent: Office of the City Administrator
-    social:
-      - type: twitter
-        url: https://twitter.com/DMHHS_DC
-      - type: facebook
-        url: https://www.facebook.com/DMHHS
-  - name: Office of the Deputy Mayor for Planning and Economic Development
-    abbreviation: DMPED
-    code: EB0
-    homepage: http://dmped.dc.gov/
-    branch: Executive
-    parent: Office of the City Administrator
-    social:
-  - name: DC National Guard
-    abbreviation: 
-    code: FK0
-    homepage: 
-    branch: Executive
-    parent: Office of the Deputy City Administrator
-    social:
-  - name: Department of Corrections
-    abbreviation: DOC
-    code: FL0
-    homepage: http://doc.dc.gov/
-    branch: Executive
-    parent: Office of the Deputy City Administrator
-    social:
-      - type: twitter
-        url: https://twitter.com/dccorrections
-      - type: facebook
-        url: https://www.facebook.com/dccorrections/
-  - name: Department of Forensic Sciences
-    abbreviation: DFS
-    code: FR0
-    homepage: http://dfs.dc.gov/
-    branch: Executive
-    parent: Office of the Deputy City Administrator
-    social:
-      - type: facebook
-        url: https://www.facebook.com/DCDepartmentofForensicSciences/
-  - name: Department of General Services
-    abbreviation: DGS
-    code: AM0
-    homepage: http://dgs.dc.gov/
-    branch: Executive
-    parent: Office of the Deputy City Administrator
-    social:
-      - type: twitter
-        url: https://twitter.com/DCDGS
-      - type: facebook
-        url: https://www.facebook.com/dcdgs/
-  - name: Department of Homeland Security and Emergency Management Agency
-    abbreviation: HSEMA
-    code: BN0
-    homepage: http://hsema.dc.gov/
-    branch: Executive
-    parent: Office of the Deputy City Administrator
-    social:
-      - type: twitter
-        url: https://twitter.com/dc_hsema
-      - type: facebook
-        url: https://www.facebook.com/HSEMADC/
-  - name: Department of Human Resources
-    abbreviation: DCHR
-    code: BE0
-    homepage: http://dchr.dc.gov/
-    branch: Executive
-    parent: Office of the Deputy City Administrator
-    social:
-      - type: twitter
-        url: https://twitter.com/DCgovDCHR
-      - type: facebook
-        url: https://www.facebook.com/DCHumanResources/
-  - name: Department of Motor Vehicles
-    abbreviation: DMV
-    code: KV0
-    homepage: http://dmv.dc.gov/
-    branch: Executive
-    parent: Office of the Deputy City Administrator
-    social:
-      - type: twitter
-        url: https://twitter.com/dcdmv
-      - type: facebook
-        url: https://www.facebook.com/DCDMV/
-  - name: Department of Public Works
-    abbreviation: DPW
-    code: KT0
-    homepage: http://dpw.dc.gov/
-    branch: Executive
-    parent: Office of the Deputy City Administrator
-    social:
-      - type: twitter
-        url: https://twitter.com/DCDPW
-      - type: facebook
-        url: https://www.facebook.com/dpwdc/
-  - name: Fire and Emergency Medical Services
-    abbreviation: FEMS
-    code: FB0
-    homepage: http://fems.dc.gov/
-    branch: Executive
-    parent: Office of the Deputy City Administrator
-    social:
-      - type: twitter
-        url: https://twitter.com/dcfireems
-      - type: facebook
-        url: https://www.facebook.com/DCFireAndEMS/
-  - name: Justice Grants Administration
-    abbreviation: JGA
-    code: 
-    homepage: http://jga.dc.gov/
-    branch: Executive
-    parent: Office of the Deputy City Administrator
-    social:
-  - name: Metropolitan Police Department
-    abbreviation: MPDC
-    code: FA0
-    homepage: http://mpdc.dc.gov/
-    branch: Executive
-    parent: Office of the Deputy City Administrator
-    social:
-      - type: twitter
-        url: https://twitter.com/DCPoliceDept
-      - type: facebook
-        url: https://www.facebook.com/DCPolice/
-  - name: Office of Contracting and Procurement
-    abbreviation: OCP
-    code: PO0
-    homepage: http://ocp.dc.gov/
-    branch: Executive
-    parent: Office of the Deputy City Administrator
-    social:
-      - type: twitter
-        url: https://twitter.com/DCGOV_OCP
-  - name: Office of Human Rights
-    abbreviation: OHR
-    code: HM0
-    homepage: http://ohr.dc.gov/
-    branch: Executive
-    parent: Office of the Deputy City Administrator
-    social:
-      - type: twitter
-        url: https://twitter.com/DCHumanRights
-      - type: facebook
-        url: https://www.facebook.com/DCOHR/
-  - name: Office of Risk Management
-    abbreviation: ORM
-    code: RK0
-    homepage: http://orm.dc.gov/
-    branch: Executive
-    parent: Office of the Deputy City Administrator
-    social:
-      - type: facebook
-        url: https://www.facebook.com/DC-Office-of-Risk-Management-284498761657948/
-  - name: Office of the Chief Medical Examiner
-    abbreviation: OCME
-    code: FX0
-    homepage: http://ocme.dc.gov/
-    branch: Executive
-    parent: Office of the Deputy City Administrator
-    social:
-  - name: Office of the Chief Technology Officer
-    abbreviation: OCTO
-    code: TO0
-    homepage: http://octo.dc.gov/
-    branch: Executive
-    parent: Office of the Deputy City Administrator
-    social:
-      - type: twitter
-        url: https://twitter.com/octodc
-      - type: facebook
-        url: https://www.facebook.com/octodc/
-  - name: Office of Unified Communications
-    abbreviation: OUC
-    code: UC0
-    homepage: http://ouc.dc.gov/
-    branch: Executive
-    parent: Office of the Deputy City Administrator
-    social:
-      - type: twitter
-        url: https://twitter.com/311DCGov
-      - type: facebook
-        url: https://www.facebook.com/Office-of-Unified-Communications-127730233991812/
-  - name: Office of Partnerships and Grants
-    abbreviation: OPGS
-    code: 
-    homepage: http://opgs.dc.gov/
-    branch: Executive
-    parent: Office of the General Counsel
-    social:
-      - type: twitter
-        url: https://twitter.com/opgsdc
-      - type: facebook
-        url: https://www.facebook.com/OPGSDC/
-  - name: Office of Federal and Regional Affairs
-    abbreviation: OFRA
-    code: 
-    homepage: 
-    branch: Executive
-    parent: Office of the Senior Advisor
-    social:
-  - name: Office of Policy and Legislative Affairs
-    abbreviation: OPLA
-    code: 
-    homepage: 
-    branch: Executive
-    parent: Office of the Senior Advisor
-    social:
-  - name: Office of the Secretary
-    abbreviation: OS
-    code: BA0
-    homepage: http://os.dc.gov/
-    branch: Executive
-    parent: Office of the Senior Advisor
-    social:
-      - type: twitter
-        url: https://twitter.com/SecretaryofDC
-      - type: facebook
-        url: https://www.facebook.com/Office-of-the-Secretary-of-the-District-of-Columbia-173113089429495/
-
 independent-agencies:
   - name: Alcoholic Beverage Regulation Administration
     abbreviation: ABRA
