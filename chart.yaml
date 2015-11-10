@@ -868,7 +868,7 @@ independent-agencies:
         url: https://www.facebook.com/DC-Criminal-Justice-Coordinating-Council-135839523224116/
   - name: DC Housing Authority
     abbreviation: DCHA
-    code: 
+    code: HY0
     homepage: http://www.dchousing.org/
     branch: Independent Agency
     parent: None
@@ -886,14 +886,14 @@ independent-agencies:
         url: https://www.facebook.com/dclibrary/
   - name: DC Retirement Board
     abbreviation: DCRB
-    code: 
+    code: DY0
     homepage: http://dcrb.dc.gov/
     branch: Independent Agency
     parent: None
     social:
   - name: DC Water (Water and Sewer Authority)
     abbreviation: 
-    code: 
+    code: LA0
     homepage: https://www.dcwater.com/
     branch: Independent Agency
     parent: None
@@ -915,7 +915,7 @@ independent-agencies:
         url: https://www.facebook.com/DC-Health-Link-254860577970621/
   - name: Housing Finance Agency
     abbreviation: DCHFA
-    code: 
+    code: HF0
     homepage: http://www.dchfa.org/
     branch: Independent Agency
     parent: None
@@ -929,7 +929,7 @@ independent-agencies:
     social:
   - name: Not-for-Profit Hospital Corporation
     abbreviation: 
-    code: 
+    code: HW0
     homepage: http://www.united-medicalcenter.com/
     branch: Independent Agency
     parent: None
@@ -1042,7 +1042,7 @@ independent-agencies:
     social:
   - name: University of the District of Columbia
     abbreviation: UDC
-    code: 
+    code: GF0
     homepage: http://www.udc.edu/
     branch: Independent Agency
     parent: None
